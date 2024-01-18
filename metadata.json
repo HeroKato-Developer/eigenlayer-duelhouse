@@ -1,7 +1,7 @@
 {
-"name": "DUELHOUSE.IO",
-"website": "https.example.com",
-"description": "duelhouse.io is a web crypto casino",
-"logo": "example.com/logo.png",
-"twitter": ""
+  "name": "DUELHOUSE.IO",
+  "website": "https://www.duelhouse.io",
+  "description": "duelhouse.io is a crypto gambling casino website.",
+  "logo": "https://www.duelhouse.io/assets/games/coinflip/duel.png",
+  "twitter": "https://twitter.com/HeroKato_"
 }
